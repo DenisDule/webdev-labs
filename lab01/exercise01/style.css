@@ -10,7 +10,7 @@ body {
 /*
 Add some style blocks below this line to style the card.
 */
-section {
+main {
     box-sizing: border-box;
     border: dotted 1px #CCC; 
     width: 35vh;
