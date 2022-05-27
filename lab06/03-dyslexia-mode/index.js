@@ -9,4 +9,4 @@ document.querySelector('#dyslexia-toggle').addEventListener('click', () => {
   else {
     document.querySelector('body').className = '';
   }
-})
+}) 
